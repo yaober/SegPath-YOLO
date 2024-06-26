@@ -1,0 +1,1 @@
+from .model_onnx import Yolov8SegmentationONNX
