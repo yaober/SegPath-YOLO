@@ -38,8 +38,8 @@ python app_gradio.py
 
 Contributors names and contact info
 
-Mr. Jia Yao  
-Dr. Ruichen Rong
-Dr. Tao Wang
-Dr. Guanghua Xiao
+* Mr. Jia Yao  
+* Dr. Ruichen Rong
+* Dr. Tao Wang
+* Dr. Guanghua Xiao
 
